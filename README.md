@@ -6,7 +6,7 @@ The project consists of a task (different each year) to be completed in the most
 
 I achieved the maximum score of 30/30 cum laude, implementing a red-black tree and a minheap, and with a generally efficient use of C. However, the code written in this repository doesn't represent my current programming level (the following program was written about 2 years ago). It was written before taking the software engineering course, and was not meant to be read by someone else, so it presents some bad practices and is partially written in Italian.
 
-In the following lines, I will describe in a more detailed way the task to be solved and the method used. The assignment can be found in the PDF file "ProvaFinale2021", and the code can be executed using the "test.txt" file.
+In the following lines, I will describe in a more detailed way the task to be solved and the method used. The assignment can be found in the PDF file "ProvaFinale2021", and the code can be tested using the "test.txt" file or the the input and (expected) output files in the open_tests folder.
 
 The project consisted of creating a ranking of different direct weighted graphs. The program always receives two parameters in input on the first row of the text file:
 
